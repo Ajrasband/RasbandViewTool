@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RasbandViewTool::Renderer.copyright 'Aaron Rasband', 'All rights reserved'
+```
 
 ## Development
 
